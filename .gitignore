@@ -1,0 +1,13 @@
+# Folders
+src/
+yahoo/
+other/
+
+# csv files
+.csv
+
+# DS_Store
+.DS_Store
+
+# API Keys
+.py

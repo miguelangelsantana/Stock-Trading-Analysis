@@ -11,9 +11,9 @@ There are several popular investors that gain notoriety by sharing a few of thei
 
 #### None of the following is meant to be financial advice. This is simply an observation of trends in the market.
 
-![!](/images/topscope.jpg)
+![!](/images/stockimagetitle.jpg)
 
-Photo by Markus Frieauff on Unsplash
+Photo by Lukas from Pexels
 
 ## Twitter Mentions, traderstewie | Ticker Symbols
 
@@ -37,21 +37,21 @@ Photo by Markus Frieauff on Unsplash
 
 ### MVIS
 
-![!](/images/MVIScandle.jpg)
+![!](/images/MVIScandle.png)
 
 ### SOLO
 
-![!](/images/SOLOcandle.jpg)
+![!](/images/SOLOcandle.png)
 
 ## Financial Statistics | Quant Charts
 
 ### MVIS
 
-![!](/images/MVISquant.jpg)
+![!](/images/MVISquant.png)
 
 ### SOLO
 
-![!](/images/SOLOquant.jpg)
+![!](/images/SOLOquant.png)
 
 # Future Work
 This notebook provided an introduction into the analysis of stocks and trends that may be leveraged during investment. The notebook is merely an introduction and future work can dive deeper into statistical trends and investment analysis. 
